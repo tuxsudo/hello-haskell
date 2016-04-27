@@ -1,0 +1,4 @@
+-- :t "Hello"
+-- produces
+-- "Hello!" :: [Char]
+-- which means "Hello!" has the type [Char]
